@@ -4,7 +4,9 @@ import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.time.format.DateTimeParseException;
 import java.util.Scanner;
-
+/*
+Get day of week by date + implemented what day of the year it is
+ */
 public class DayWeek {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
